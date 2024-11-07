@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BEBE-3
 # Project Title
 
@@ -26,3 +27,7 @@ Answer 2
 
 For support, email fake@fake.com or join our Slack channel.
 
+=======
+# bebc-3
+ 
+>>>>>>> parent of 9bfc512 (Update README.md)
